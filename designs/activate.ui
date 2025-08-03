@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Frame</class>
+ <widget class="QFrame" name="Frame">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1078</width>
+    <height>666</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Activlashtirish</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout">
+   <property name="leftMargin">
+    <number>10</number>
+   </property>
+   <property name="rightMargin">
+    <number>50</number>
+   </property>
+   <item>
+    <widget class="QFrame" name="frame_2">
+     <property name="maximumSize">
+      <size>
+       <width>600</width>
+       <height>16777215</height>
+      </size>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout_4">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <item>
+       <spacer name="verticalSpacer_2">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>40</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_4">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: transparent;
+font-size: 20px;
+color: rgb(40,40,80);
+padding: 10px;
+padding-bottom: 0;
+
+font-family: &quot;Segoe UI Black&quot;;</string>
+        </property>
+        <property name="text">
+         <string>Kichik o'chamdagi
+Do'konlarni avtomatlashtirish
+uchun
+
+Ajoyib hamyonbop dastur</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignBottom|Qt::AlignHCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_5">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Minimum" vsizetype="Minimum">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: transparent;
+font-size: 18px;
+color: rgb(40,40,80);
+padding: 10px;
+padding-top: 0;
+font-family: &quot;Segoe UI Black&quot;;
+color:  rgb(0, 155, 127);</string>
+        </property>
+        <property name="text">
+         <string>Internetsiz, Bir marta sotib olib butun umr foydalaning
+Skaner qurilma bilan kassa ishini osonlashtiring</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignHCenter|Qt::AlignTop</set>
+        </property>
+        <property name="wordWrap">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_8">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: transparent;
+font-size: 20px;
+color: rgb(40,40,80);
+padding: 10px;
+padding-bottom: 0;
+
+font-family: &quot;Segoe UI Black&quot;;</string>
+        </property>
+        <property name="text">
+         <string>Qulayliklar</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignBottom|Qt::AlignHCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_7">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Maximum" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: transparent;
+font-size: 16px;
+color: rgb(40,40,80);
+padding: 10px;
+padding-top: 0;
+font-family: &quot;Segoe UI Black&quot;;
+color:  rgb(0, 155, 127);</string>
+        </property>
+        <property name="text">
+         <string>- Hisobot yuritish (kunlik, oylik, yillik)
+- Sof foydani hisoblash (kunlik, oylik, yillik)
+- Statistikani ko'rib borish
+- Maxsulotlar omborini shakllantirish
+- Ko'p sotilayotgan yoki sotilmay qolgan maxsulotlarni bilish</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+        </property>
+        <property name="wordWrap">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_6">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: transparent;
+font-size: 20px;
+color: rgb(40,40,80);
+padding: 10px;
+padding-bottom: 0;
+
+font-family: &quot;Segoe UI Black&quot;;</string>
+        </property>
+        <property name="text">
+         <string>Hammasi bitta dasturda</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignBottom|Qt::AlignHCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <spacer name="verticalSpacer">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>40</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QFrame" name="frame">
+     <property name="maximumSize">
+      <size>
+       <width>600</width>
+       <height>600</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QWidget{
+	background-color: rgb(85, 170, 255);
+background-color: qlineargradient(spread:pad, x1:0, y1:0.25, x2:1, y2:0.75, stop:0.306818 rgba(103, 204, 255, 70), stop:1 rgba(85, 170, 255, 70));
+border-radius: 20px;}
+QPushButton {
+border: 1px solid rgba(255,255,255,100);
+border-radius: 10px;
+font-size: 26px;
+font-family: &quot;Segoe UI Black&quot;;
+color: rgb(255,255,255);
+background-color: qlineargradient(spread:pad, x1:0, y1:0.25, x2:1, y2:0.75, stop:0.306818 rgba(103, 204, 255, 255), stop:1 rgba(85, 170, 255, 255));
+}
+QPushButton:hover{
+background-color: rgb(87, 174, 255);
+}</string>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QLabel" name="label_3">
+        <property name="styleSheet">
+         <string notr="true">background-color: transparent;
+font-size: 20px;
+color: rgb(40,40,80);
+padding: 10px;
+font-family: &quot;Segoe UI Black&quot;;</string>
+        </property>
+        <property name="text">
+         <string>Sinab ko'rish uchun
+Ariza yuborish</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QStackedWidget" name="stackedWidget">
+        <property name="currentIndex">
+         <number>0</number>
+        </property>
+        <widget class="QWidget" name="yangi">
+         <layout class="QVBoxLayout" name="verticalLayout_2">
+          <item>
+           <widget class="QLineEdit" name="lineEdit_2">
+            <property name="styleSheet">
+             <string notr="true">QLineEdit{
+border: 1px solid rgba(255,255,255,100);
+padding: 10px;
+border-radius: 10px;
+font-size: 16px;
+}
+QLineEdit:focus{
+border: 1px solid rgb(255,255,255);
+}</string>
+            </property>
+            <property name="placeholderText">
+             <string>Ism Familiya</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLineEdit" name="lineEdit_3">
+            <property name="styleSheet">
+             <string notr="true">QLineEdit{
+border: 1px solid rgba(255,255,255,100);
+padding: 10px;
+border-radius: 10px;
+font-size: 16px;
+}
+QLineEdit:focus{
+border: 1px solid rgb(255,255,255);
+}</string>
+            </property>
+            <property name="placeholderText">
+             <string>Telefon raqam</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPlainTextEdit" name="plainTextEdit">
+            <property name="styleSheet">
+             <string notr="true">QPlainTextEdit{
+border: 1px solid rgba(255,255,255,100);
+padding: 10px;
+border-radius: 10px;
+font-size: 16px;
+}
+QPlainTextEdit:focus{
+border: 1px solid rgb(255,255,255);
+}</string>
+            </property>
+            <property name="frameShape">
+             <enum>QFrame::NoFrame</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Plain</enum>
+            </property>
+            <property name="placeholderText">
+             <string>Do'koningiz haqida qisqacha. Masalan: Tokent, sergeli, quruvchilar mahallasi qurilish mollari do'koni</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="pushButton">
+            <property name="cursor">
+             <cursorShape>PointingHandCursor</cursorShape>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">padding: 30px;</string>
+            </property>
+            <property name="text">
+             <string>Ariza yuborish</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+        <widget class="QWidget" name="korish">
+         <layout class="QVBoxLayout" name="verticalLayout_3">
+          <item>
+           <widget class="QTextBrowser" name="textBrowser">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Expanding" vsizetype="Maximum">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">font-family: 20px;
+background-color: rgba(255, 255, 255, 100);
+font-family: &quot;Segoe UI Black&quot;;
+padding: 20px;</string>
+            </property>
+            <property name="html">
+             <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Segoe UI Black'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:18pt; color:#00c864;&quot;&gt;Ariza yuborildi!&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:18pt; color:#486f82;&quot;&gt;Tez orada sinov uchun ruxsat olasiz&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="pushButton_3">
+            <property name="styleSheet">
+             <string notr="true">padding: 20px;</string>
+            </property>
+            <property name="text">
+             <string>Arizani taxrirlash</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_2">
+        <property name="styleSheet">
+         <string notr="true">background-color: transparent;
+font-size: 20px;
+color: rgb(40,40,80);
+padding: 10px;
+font-family: &quot;Segoe UI Black&quot;;</string>
+        </property>
+        <property name="text">
+         <string>Sotib oldingizmi?</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_2">
+        <property name="cursor">
+         <cursorShape>PointingHandCursor</cursorShape>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">border-radius: 20px;
+padding: 30px;</string>
+        </property>
+        <property name="text">
+         <string>Kalit Fayl bilan aktivlashtirish</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
