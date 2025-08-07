@@ -1,0 +1,6 @@
+**/license.sig
+**/encrypted.json
+**/private_key.pem
+**/public_key.pem
+
+**/__pycache__
