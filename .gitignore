@@ -4,3 +4,8 @@
 **/public_key.pem
 
 **/__pycache__
+venv/
+.env
+minishop.db
+**/migrations
+alembic.ini
