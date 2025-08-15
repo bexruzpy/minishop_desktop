@@ -9,3 +9,5 @@ venv/
 minishop.db
 **/migrations
 alembic.ini
+**/test.py
+license.key

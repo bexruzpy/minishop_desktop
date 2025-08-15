@@ -29,3 +29,4 @@ if verify_signature(cpu_id, license_signature, "public_key.pem"):
     print("✅ Aktivatsiya muvaffaqiyatli!")
 else:
     print("❌ Aktivatsiya xato yoki soxta!")
+
